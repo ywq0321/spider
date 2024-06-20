@@ -3,4 +3,7 @@
 - find_peaks.py takes spider.json as input to produce its Fourier Coefficients, and stores it in peaks.pkl.
 - animiates_epicycles.py reads peaks.pkl to produce an epicycle animation.
 
-## External Dependencies: matplotlib, scipy, numpy
+## External Dependencies
+- matplotlib
+- scipy
+- numpy
